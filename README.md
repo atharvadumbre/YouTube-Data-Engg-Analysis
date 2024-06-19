@@ -34,6 +34,10 @@ This project follows an architecture inspired by Darshil Parmar. The process inv
 
 Fetched data into Power BI via ODBC driver, connecting to AWS Data Catalog to create a dynamic and insightful dashboard.
 
+![dashboard](https://github.com/atharvadumbre/YouTube-Data-Engg-Analysis/assets/59522832/2de3dbe8-e9b3-414a-b623-add76254b7bc)
+
+
+
 ## Next Steps
 
 Currently, only data from 3 regions are processed due to encoding issues with non-UTF-8 formats in other regions' data. A temporary manual solution involves re-saving files in VSCode with "UTF-8" encoding. Exploring automation methods for this task to streamline the process further.
